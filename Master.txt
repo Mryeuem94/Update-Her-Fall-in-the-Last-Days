@@ -1,2 +1,6 @@
-<Version: 1.00>
+<Version: 1.01>
+/img/img_data_mfsuplub.json https://raw.githubusercontent.com/Mryeuem94/Update-Her-Fall-in-the-Last-Days/refs/heads/main/img_data_mfsuplub.json
+/audio/snd_data_mfsuplub.json https://raw.githubusercontent.com/Mryeuem94/Update-Her-Fall-in-the-Last-Days/refs/heads/main/snd_data_mfsuplub.json
+/js/plugins.js https://raw.githubusercontent.com/Mryeuem94/Update-Her-Fall-in-the-Last-Days/refs/heads/main/plugins.js
+/js/plugins/rmmv_prevent_lower_upper_bug.js https://raw.githubusercontent.com/Mryeuem94/Update-Her-Fall-in-the-Last-Days/refs/heads/main/rmmv_prevent_lower_upper_bug.js
 <End of Version>
