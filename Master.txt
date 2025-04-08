@@ -1,3 +1,2 @@
-<Version: 1.27>
-/data/Map021.json https://raw.githubusercontent.com/Mryeuem94/Update-Her-Fall-in-the-Last-Days/refs/heads/main/Map021.json
+<Version: 1.00>
 <End of Version>
